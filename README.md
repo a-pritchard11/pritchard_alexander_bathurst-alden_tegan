@@ -14,8 +14,10 @@
      - etc.
 - The colour black
 - Walking at night
+
 This is a picture of my dog:
-!(Tilly holding a plushie)[images/20240914_154445.jpg]
+
+![Tilly holding a plushie](images/20240914_154445.jpg)
 
 
 ## Hobbies:
