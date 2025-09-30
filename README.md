@@ -64,3 +64,42 @@ This is a drawing I made of Mahito from Jujutsu Kaisen
 - I have more dislikes than likes, but I kept the list short
 - I have been to Germany and the UK 
 - I originally hated dogs, but Tilly changed that opinion for me
+
+
+
+# Alexander Pritchard
+
+![This is me!](images/1000049657.jpg)
+
+## Likes:
+- My cats Bella and Sadie
+- Gaming
+- Many kinds of rock music. Alt, funk, psych, etc.
+- Drawing
+- Fighting games
+- Manga
+- Marvel Comics
+- The fighting game community here in London, the LFGC
+
+![Here is a group picture of me and all my friends from the local fighting game community at a tournament in toronto](images/1000049654.jpg)
+
+![Here is a photo of my cats Bella and Sadie](images/1000049656.jpg)
+
+![Another photo of Sadie](images/1000049655.jpg)
+
+## Dislikes
+- Loud Places
+- Too many people talking at once
+- Drawing negative attention
+- Celery
+- Olives
+- That feeling of microfiber
+- Having my belongings moved / my order of things changed
+
+
+
+## Background
+- Born in Mississauga, grew up in Milton
+- Moved about 7 times throughout my life between my parents
+- raised catholic, attended catholic elementary and high schools, but am no longer religious
+- Have had numerous ear infections throughout my life, recieved 3 surgeries for it
