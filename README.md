@@ -3,7 +3,19 @@
 - My dog Tilly
 - Concerts
 - Rock/metal/emo/punk/alternative music
+     - Billy Talent
+     - Avenged Sevenfold
+     - Ghost
+     - My Chemical Romance
+     - Ice Nine Kills
+     - TOOL
+     - I Don't Know How But They Found Me
+     - Maneskin
+     - etc.
 - The colour black
+- Walking at night
+This is a picture of my dog:
+!(Tilly holding a plushie)[images/20240914_154445.jpg]
 
 
 ## Hobbies:
