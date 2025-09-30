@@ -19,6 +19,9 @@ This is a picture of my dog:
 
 ![Tilly holding a plushie](images/20240914_154445.jpg)
 
+This is a picture of Ben Kowalewicz from Billy Talent being given a printed copy of MY artwork!:
+
+![Ben with artwork](IMG_20240613_085243_473.jpg)
 
 ## Hobbies:
 - Going for scooter rides with Tilly
