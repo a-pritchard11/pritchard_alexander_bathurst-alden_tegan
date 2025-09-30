@@ -62,4 +62,5 @@ This is a drawing I made of Mahito from Jujutsu Kaisen
 - I've seen Billy Talent 4 times, Ghost once, Avenged Sevenfold once, Maneskin twice, and My Chemical Romance once
 - I have Tilly registered and trained to be an emotional support dog
 - I have more dislikes than likes, but I kept the list short
-- I have been to Germany and the UK
+- I have been to Germany and the UK 
+- I originally hated dogs, but Tilly changed that opinion for me
