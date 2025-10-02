@@ -103,3 +103,29 @@ This is a drawing I made of Mahito from Jujutsu Kaisen
 - Moved about 7 times throughout my life between my parents
 - raised catholic, attended catholic elementary and high schools, but am no longer religious
 - Have had numerous ear infections throughout my life, recieved 3 surgeries for it
+
+# About Me GitHub Project
+Our GitHub collaborative project.
+
+## Installation
+Open GitHub link.
+
+## Usage
+Read the README file.
+
+## Contributing:
+1. Fork it!
+2. Create your feature branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Submit a pull request :D
+
+## History
+TODO: Write history.
+
+## Credits
+Tegan Bathurst-Alden
+Alexander Pritchard
+
+## License
+MIT License.
